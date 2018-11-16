@@ -1,0 +1,1482 @@
+2018-11-13 12:39:28 DEBUG ProductManagerImplTest:143 - Product{name='bocata', price=10.0, numberOfSales=4}
+2018-11-13 12:39:28 DEBUG ProductManagerImplTest:143 - Product{name='cafe', price=3.0, numberOfSales=3}
+2018-11-13 12:39:28 DEBUG ProductManagerImplTest:143 - Product{name='zumo', price=35.0, numberOfSales=1}
+2018-11-13 12:39:28 DEBUG ProductManagerImplTest:143 - Product{name='bocata', price=10.0, numberOfSales=1}
+2018-11-13 13:32:27 DEBUG ProductManagerImplTest:143 - Product{name='bocata', price=10.0, numberOfSales=4}
+2018-11-13 13:32:27 DEBUG ProductManagerImplTest:143 - Product{name='cafe', price=3.0, numberOfSales=3}
+2018-11-13 13:32:27 DEBUG ProductManagerImplTest:143 - Product{name='zumo', price=35.0, numberOfSales=1}
+2018-11-13 13:32:27 DEBUG ProductManagerImplTest:143 - Product{name='bocata', price=10.0, numberOfSales=1}
+2018-11-15 13:27:54 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:27:54 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:27:54 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:27:54 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:27:54 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:27:54 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:27:54 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:27:54 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:27:54 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:27:55 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:27:55 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:27:55 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:27:55 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:75 - correct user
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:75 - correct user
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:27:55 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:27:55 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:27:55 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:27:55 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:27:55 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:28:28 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:28:28 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:28:28 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:28:28 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:28:28 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:28:28 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:75 - correct user
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:75 - correct user
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:28:28 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:28:28 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:28:28 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:28:28 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:28:28 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:31:57 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:31:57 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:31:57 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:31:57 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:31:57 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:31:57 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:31:57 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:31:57 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:31:57 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:32:55 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:32:55 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:32:55 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:32:55 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:32:55 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:32:55 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:32:55 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:32:55 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:32:55 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:33:05 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:33:05 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:75 - correct user
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:75 - correct user
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:33:05 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:33:37 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:33:37 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:75 - correct user
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:75 - correct user
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:33:37 DEBUG ProductManagerImpl:86 - correct product
+2018-11-15 13:33:53 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:33:53 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:33:53 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:33:53 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:33:53 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:33:53 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:33:53 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:33:53 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:33:53 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:34:14 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:34:14 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:34:14 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:34:14 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:34:14 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:34:14 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:34:14 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:34:14 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:34:14 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:38:49 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:38:49 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:38:49 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:38:49 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:38:49 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:38:49 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:38:49 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:38:49 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:38:49 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:44:27 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:44:27 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:44:27 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:44:27 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:44:27 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:44:27 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:44:27 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:44:27 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:44:27 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 13:44:46 DEBUG ProductManagerImplTest:25 - creating list of products
+2018-11-15 13:44:46 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 13:44:46 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 13:44:46 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 13:44:46 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 13:44:46 DEBUG ProductManagerImplTest:32 - creating list of users
+2018-11-15 13:44:46 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 13:44:46 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 13:44:46 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:49 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:50 - testProductsByPrice
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:42 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:43 - CLEAR
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:107 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:108 - TestSortProductsBySales
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:42 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:43 - CLEAR
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:57 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:58 - testDoAnOrder
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:42 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:43 - CLEAR
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:93 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:94 - testGetOrdersByUser
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:42 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:43 - CLEAR
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:03:08 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:79 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:80 - testServeAnOrder
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:42 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:03:08 DEBUG ProductManagerImplTest:43 - CLEAR
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:49 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:50 - testProductsByPrice
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:42 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:43 - CLEAR
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:107 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:108 - TestSortProductsBySales
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:111 - Product{name='cafe', price=2.0, numberOfSales=0}
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:111 - Product{name='bocata', price=3.5, numberOfSales=0}
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:111 - Product{name='zumo', price=3.0, numberOfSales=0}
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:111 - Product{name='manzana', price=1.0, numberOfSales=0}
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:111 - Product{name='cafe', price=2.0, numberOfSales=0}
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:111 - Product{name='bocata', price=3.5, numberOfSales=0}
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:111 - Product{name='zumo', price=3.0, numberOfSales=0}
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:111 - Product{name='manzana', price=1.0, numberOfSales=0}
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:42 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:43 - CLEAR
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:57 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:58 - testDoAnOrder
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:42 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:43 - CLEAR
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:93 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:94 - testGetOrdersByUser
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:42 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:43 - CLEAR
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:05:13 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:79 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:80 - testServeAnOrder
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:42 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:05:13 DEBUG ProductManagerImplTest:43 - CLEAR
+2018-11-15 14:11:21 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:11:21 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:11:21 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:11:21 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:21 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:11:21 DEBUG ProductManagerImplTest:63 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:11:21 DEBUG ProductManagerImplTest:64 - testProductsByPrice
+2018-11-15 14:11:21 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:11:21 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:11:27 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:11:27 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:11:27 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:11:27 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:27 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:11:27 DEBUG ProductManagerImplTest:71 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:11:27 DEBUG ProductManagerImplTest:72 - testDoAnOrder
+2018-11-15 14:11:27 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:11:27 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:11:34 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:11:34 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:11:34 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:11:34 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:11:34 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:11:34 DEBUG ProductManagerImplTest:83 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:11:34 DEBUG ProductManagerImplTest:84 - testServeAnOrder
+2018-11-15 14:11:34 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:11:34 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:14:02 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:14:02 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:14:02 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:14:02 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:14:02 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:14:02 DEBUG ProductManagerImplTest:83 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:14:02 DEBUG ProductManagerImplTest:84 - testServeAnOrder
+2018-11-15 14:14:02 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:14:02 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:14:14 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:14:14 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:14:14 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:14:14 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:14:14 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:14:14 DEBUG ProductManagerImplTest:94 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:14:14 DEBUG ProductManagerImplTest:95 - testGetOrdersByUser
+2018-11-15 14:14:14 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:14:14 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:15:04 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:15:04 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:15:04 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:15:04 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:15:04 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:15:04 DEBUG ProductManagerImplTest:108 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:15:04 DEBUG ProductManagerImplTest:109 - TestSortProductsBySales
+2018-11-15 14:15:05 DEBUG ProductManagerImplTest:112 - Product{name='cafe', price=2.0, numberOfSales=0}
+2018-11-15 14:15:05 DEBUG ProductManagerImplTest:112 - Product{name='bocata', price=3.5, numberOfSales=0}
+2018-11-15 14:15:05 DEBUG ProductManagerImplTest:112 - Product{name='zumo', price=3.0, numberOfSales=0}
+2018-11-15 14:15:05 DEBUG ProductManagerImplTest:112 - Product{name='manzana', price=1.0, numberOfSales=0}
+2018-11-15 14:15:05 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:15:05 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:17:39 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:17:39 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:17:39 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:17:39 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:17:39 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:17:39 DEBUG ProductManagerImplTest:94 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:17:39 DEBUG ProductManagerImplTest:95 - testGetOrdersByUser
+2018-11-15 14:17:39 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:17:39 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:17:48 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:110 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:111 - TestSortProductsBySales
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:114 - Product{name='cafe', price=2.0, numberOfSales=0}
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:114 - Product{name='bocata', price=3.5, numberOfSales=0}
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:114 - Product{name='zumo', price=3.0, numberOfSales=0}
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:114 - Product{name='manzana', price=1.0, numberOfSales=0}
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:17:48 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:18:07 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:07 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:18:07 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:18:07 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:07 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:18:07 DEBUG ProductManagerImplTest:110 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:07 DEBUG ProductManagerImplTest:111 - TestSortProductsBySales
+2018-11-15 14:18:08 DEBUG ProductManagerImplTest:116 - Product{name='bocata', price=3.5, numberOfSales=4}
+2018-11-15 14:18:08 DEBUG ProductManagerImplTest:116 - Product{name='cafe', price=2.0, numberOfSales=3}
+2018-11-15 14:18:08 DEBUG ProductManagerImplTest:116 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 14:18:08 DEBUG ProductManagerImplTest:116 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 14:18:08 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:08 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:44 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:110 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:111 - TestSortProductsBySales
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:116 - Product{name='bocata', price=3.5, numberOfSales=4}
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:116 - Product{name='cafe', price=2.0, numberOfSales=3}
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:116 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:116 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:44 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:63 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:64 - testProductsByPrice
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:110 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:111 - TestSortProductsBySales
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:116 - Product{name='bocata', price=3.5, numberOfSales=4}
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:116 - Product{name='bocata', price=3.5, numberOfSales=4}
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:116 - Product{name='cafe', price=2.0, numberOfSales=3}
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:116 - Product{name='cafe', price=2.0, numberOfSales=3}
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:116 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:116 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:116 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:116 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:71 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:72 - testDoAnOrder
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:94 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:95 - testGetOrdersByUser
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:18:51 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:83 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:84 - testServeAnOrder
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:18:51 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:63 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:64 - testProductsByPrice
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:110 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:111 - TestSortProductsBySales
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:116 - Product{name='bocata', price=3.5, numberOfSales=4}
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:116 - Product{name='bocata', price=3.5, numberOfSales=4}
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:116 - Product{name='cafe', price=2.0, numberOfSales=3}
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:116 - Product{name='cafe', price=2.0, numberOfSales=3}
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:116 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:116 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:116 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:116 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:71 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:72 - testDoAnOrder
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:94 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:95 - testGetOrdersByUser
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:14 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:83 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:84 - testServeAnOrder
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:14 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:19:21 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:21 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:19:21 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:19:21 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:21 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:19:21 DEBUG ProductManagerImplTest:63 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:21 DEBUG ProductManagerImplTest:64 - testProductsByPrice
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:110 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:111 - TestSortProductsBySales
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:116 - Product{name='bocata', price=3.5, numberOfSales=4}
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:116 - Product{name='bocata', price=3.5, numberOfSales=4}
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:116 - Product{name='cafe', price=2.0, numberOfSales=3}
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:116 - Product{name='cafe', price=2.0, numberOfSales=3}
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:116 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:116 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:116 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:116 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:71 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:72 - testDoAnOrder
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:94 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:95 - testGetOrdersByUser
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:19:22 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:83 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:84 - testServeAnOrder
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:19:22 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:20:15 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:20:15 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:20:15 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:20:15 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:20:15 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:20:15 DEBUG ProductManagerImplTest:71 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:20:15 DEBUG ProductManagerImplTest:72 - testDoAnOrder
+2018-11-15 14:20:15 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:20:15 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:20:20 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:20:20 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:20:20 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:20:20 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:20:20 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:20:20 DEBUG ProductManagerImplTest:83 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:20:20 DEBUG ProductManagerImplTest:84 - testServeAnOrder
+2018-11-15 14:20:20 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:20:20 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:23:28 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:110 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:111 - TestSortProductsBySales
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:116 - Product{name='bocata', price=3.5, numberOfSales=4}
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:116 - Product{name='cafe', price=2.0, numberOfSales=3}
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:116 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:116 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:23:28 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:24:11 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:110 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:111 - TestSortProductsBySales
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:116 - Product{name='cafe', price=2.0, numberOfSales=4}
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:116 - Product{name='bocata', price=3.5, numberOfSales=2}
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:116 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:116 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:24:11 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:25 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:26 - creating list of products
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:33 - creating list of users
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:39 - creating some Orders
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:49 - created order of pepe
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:78 - correct user
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:89 - correct product
+2018-11-15 14:24:23 DEBUG ProductManagerImpl:49 - created order of jose
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:110 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:111 - TestSortProductsBySales
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:116 - Product{name='cafe', price=2.0, numberOfSales=4}
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:116 - Product{name='bocata', price=3.5, numberOfSales=2}
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:116 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:116 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:56 - -------------------------------------------------------------------------------------------------
+2018-11-15 14:24:23 DEBUG ProductManagerImplTest:57 - CLEAR
+2018-11-15 14:33:22 DEBUG ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 14:33:23 DEBUG ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 14:33:23 DEBUG ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 14:33:23 DEBUG ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 14:33:23 DEBUG ProductManagerImpl:45 - created User : pepe
+2018-11-15 14:33:23 DEBUG ProductManagerImpl:45 - created User : jose
+2018-11-15 14:33:23 DEBUG ProductManagerImpl:45 - created User : carlos
+2018-11-15 15:50:45 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 15:50:45 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 15:50:45 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 15:50:45 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 15:50:45 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 15:50:45 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 15:50:45 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 16:19:44 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 16:19:44 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 16:19:44 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 16:19:44 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 16:19:44 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 16:19:44 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 16:19:44 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 16:20:28 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 16:20:28 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 16:20:28 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 16:20:28 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 16:20:28 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 16:20:28 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 16:20:28 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 16:25:07 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 16:25:07 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 16:25:07 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 16:25:07 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 16:25:07 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 16:25:07 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 16:25:07 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 16:25:50 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 16:25:50 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 16:25:50 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 16:25:50 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 16:25:50 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 16:25:50 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 16:25:50 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 16:26:53 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 16:26:53 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 16:26:53 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 16:26:53 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 16:26:53 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 16:26:53 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 16:26:53 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 16:43:33 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 16:43:33 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 16:43:33 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 16:43:33 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 16:43:33 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 16:43:33 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 16:43:33 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 16:44:22 INFO  ProductManagerImpl:63 - SortingProductsByPrice....
+2018-11-15 16:44:22 INFO  ProductManagerImpl:69 - Sorted!
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:27 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:28 - creating list of products
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:35 - creating list of users
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:41 - creating some Orders
+2018-11-15 17:17:20 INFO  ProductManagerImpl:75 - Doing an order
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:80 - correct user
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 INFO  ProductManagerImpl:49 - created order of pepe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:100 - Order done
+2018-11-15 17:17:20 INFO  ProductManagerImpl:75 - Doing an order
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:80 - correct user
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 INFO  ProductManagerImpl:49 - created order of jose
+2018-11-15 17:17:20 INFO  ProductManagerImpl:100 - Order done
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:65 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:66 - testProductsByPrice
+2018-11-15 17:17:20 INFO  ProductManagerImpl:63 - SortingProductsByPrice....
+2018-11-15 17:17:20 INFO  ProductManagerImpl:69 - Sorted!
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:58 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:59 - CLEAR
+2018-11-15 17:17:20 INFO  ProductManagerImpl:143 - DB cleared
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:27 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:28 - creating list of products
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:35 - creating list of users
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:41 - creating some Orders
+2018-11-15 17:17:20 INFO  ProductManagerImpl:75 - Doing an order
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:80 - correct user
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 INFO  ProductManagerImpl:49 - created order of pepe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:100 - Order done
+2018-11-15 17:17:20 INFO  ProductManagerImpl:75 - Doing an order
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:80 - correct user
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 INFO  ProductManagerImpl:49 - created order of jose
+2018-11-15 17:17:20 INFO  ProductManagerImpl:100 - Order done
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:112 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:113 - TestSortProductsBySales
+2018-11-15 17:17:20 INFO  ProductManagerImpl:104 - Serving an Order
+2018-11-15 17:17:20 INFO  ProductManagerImpl:118 - Order Served
+2018-11-15 17:17:20 INFO  ProductManagerImpl:104 - Serving an Order
+2018-11-15 17:17:20 INFO  ProductManagerImpl:118 - Order Served
+2018-11-15 17:17:20 INFO  ProductManagerImpl:128 - Sorting list of Products by sales...
+2018-11-15 17:17:20 INFO  ProductManagerImpl:134 - Sorted!
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:118 - Product{name='cafe', price=2.0, numberOfSales=4}
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:118 - Product{name='bocata', price=3.5, numberOfSales=2}
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:118 - Product{name='zumo', price=3.0, numberOfSales=1}
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:118 - Product{name='manzana', price=1.0, numberOfSales=1}
+2018-11-15 17:17:20 INFO  ProductManagerImpl:128 - Sorting list of Products by sales...
+2018-11-15 17:17:20 INFO  ProductManagerImpl:134 - Sorted!
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:58 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:59 - CLEAR
+2018-11-15 17:17:20 INFO  ProductManagerImpl:143 - DB cleared
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:27 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:28 - creating list of products
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:35 - creating list of users
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:41 - creating some Orders
+2018-11-15 17:17:20 INFO  ProductManagerImpl:75 - Doing an order
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:80 - correct user
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 INFO  ProductManagerImpl:49 - created order of pepe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:100 - Order done
+2018-11-15 17:17:20 INFO  ProductManagerImpl:75 - Doing an order
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:80 - correct user
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 INFO  ProductManagerImpl:49 - created order of jose
+2018-11-15 17:17:20 INFO  ProductManagerImpl:100 - Order done
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:73 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:74 - testDoAnOrder
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:58 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:59 - CLEAR
+2018-11-15 17:17:20 INFO  ProductManagerImpl:143 - DB cleared
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:27 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:28 - creating list of products
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:35 - creating list of users
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:41 - creating some Orders
+2018-11-15 17:17:20 INFO  ProductManagerImpl:75 - Doing an order
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:80 - correct user
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 INFO  ProductManagerImpl:49 - created order of pepe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:100 - Order done
+2018-11-15 17:17:20 INFO  ProductManagerImpl:75 - Doing an order
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:80 - correct user
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 INFO  ProductManagerImpl:49 - created order of jose
+2018-11-15 17:17:20 INFO  ProductManagerImpl:100 - Order done
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:96 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:97 - testGetOrdersByUser
+2018-11-15 17:17:20 INFO  ProductManagerImpl:104 - Serving an Order
+2018-11-15 17:17:20 INFO  ProductManagerImpl:118 - Order Served
+2018-11-15 17:17:20 INFO  ProductManagerImpl:104 - Serving an Order
+2018-11-15 17:17:20 INFO  ProductManagerImpl:118 - Order Served
+2018-11-15 17:17:20 INFO  ProductManagerImpl:123 - getting the orderlist from user: jose
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:58 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:59 - CLEAR
+2018-11-15 17:17:20 INFO  ProductManagerImpl:143 - DB cleared
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:27 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:28 - creating list of products
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: cafe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: bocata
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: zumo
+2018-11-15 17:17:20 INFO  ProductManagerImpl:41 - created product by name: manzana
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:35 - creating list of users
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : pepe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : jose
+2018-11-15 17:17:20 INFO  ProductManagerImpl:45 - created User : carlos
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:41 - creating some Orders
+2018-11-15 17:17:20 INFO  ProductManagerImpl:75 - Doing an order
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:80 - correct user
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 INFO  ProductManagerImpl:49 - created order of pepe
+2018-11-15 17:17:20 INFO  ProductManagerImpl:100 - Order done
+2018-11-15 17:17:20 INFO  ProductManagerImpl:75 - Doing an order
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:80 - correct user
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 DEBUG ProductManagerImpl:91 - correct product
+2018-11-15 17:17:20 INFO  ProductManagerImpl:49 - created order of jose
+2018-11-15 17:17:20 INFO  ProductManagerImpl:100 - Order done
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:85 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:86 - testServeAnOrder
+2018-11-15 17:17:20 INFO  ProductManagerImpl:104 - Serving an Order
+2018-11-15 17:17:20 INFO  ProductManagerImpl:118 - Order Served
+2018-11-15 17:17:20 INFO  ProductManagerImpl:104 - Serving an Order
+2018-11-15 17:17:20 INFO  ProductManagerImpl:118 - Order Served
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:58 - -------------------------------------------------------------------------------------------------
+2018-11-15 17:17:20 DEBUG ProductManagerImplTest:59 - CLEAR
+2018-11-15 17:17:20 INFO  ProductManagerImpl:143 - DB cleared
